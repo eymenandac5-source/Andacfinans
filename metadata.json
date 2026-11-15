@@ -1,0 +1,6 @@
+{
+  "name": "ANDAÇ FİNANS",
+  "description": "Finansın Yeni Yönü. Yatırım fonları, kripto varlıklar, Borsa İstanbul temettü analizleri, ekonomi haberleri ve portföy takip platformu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
